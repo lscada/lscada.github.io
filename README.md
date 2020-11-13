@@ -12,3 +12,6 @@ The area focuses on novel methods, techniques, algorithms, and tools both for co
 * Large-scale data analysis and visualization
 * Data science and machine learning in large-scale systems
 * Computational models/algorithms for bioinformatics, astrophysics, space plasmas, fusions plasmas, geoscience/earth observation...
+
+## Discussion
+* Join [our slack discussion](https://join.slack.com/t/aaltolargesca-xlj8312/shared_invite/zt-j540gtpu-3DQlrggVYjjev4HaOmsk~w) 
